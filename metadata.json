@@ -1,0 +1,8 @@
+{
+  "name": "aurency chika ",
+  "description": "Aplikasi manajemen angkutan laut terpadu untuk pemilik kapal, agen ekspedisi, dan pelanggan, mencakup pemesanan kargo, pelacakan armada kapal waktu nyata, manajemen CRUD jadwal & muatan, dan laporan keuangan komprehensif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
